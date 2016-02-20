@@ -1,0 +1,9 @@
+Building CCCoin QT GUI Wallet
+
+See doc/readme-qt.rst for instructions on building CCCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CCCoin.
+
+See doc/build-*.txt for instructions on building CCCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of CCCoin.
